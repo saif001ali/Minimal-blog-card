@@ -50,8 +50,8 @@ This page shows a solution of Minimal Blog card challenge by devChallenges.io.
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/) - This helped me with different tags and their applications.
-- [Resource 2](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me understand flexbox layout in details and  I'd recommend it to everyone.
+- [w3schools](https://www.w3schools.com/) - This helped me with different tags and their applications.
+- [developer.mozilla](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me understand flexbox layout in details and  I'd recommend it to everyone.
 
 ### Built with
 
