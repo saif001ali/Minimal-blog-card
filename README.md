@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://github.com/saif001ali/Minimal-blog-card)
-- GitHub [@your-username](https://github.com/saif001ali)
+- Website [Minimal Blog Card](https://github.com/saif001ali/Minimal-blog-card)
+- GitHub [@saif001ali](https://github.com/saif001ali)
